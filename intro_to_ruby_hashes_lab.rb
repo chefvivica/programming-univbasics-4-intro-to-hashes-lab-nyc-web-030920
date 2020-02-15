@@ -30,9 +30,9 @@ def my_hash_creator(key, value)
   my_hash_creator = {
     key: "value"
   }
-  my_hash_creator(dog, "woof") 
+ return my_hash_creator
 end
-
+my_hash_creator(dog, "woof")
 
 
 def read_from_hash(hash, key)
