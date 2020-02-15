@@ -30,7 +30,7 @@ def my_hash_creator(key, value)
   my_hash_creator = {
     key: "value"
   }
-  my_hash_creator(key, "woof") 
+  my_hash_creator(dog, "woof") 
 end
 
 
