@@ -30,8 +30,8 @@ def my_hash_creator(key, value)
   my_hash_creator = {
     key: "value"
   }
-  my_hash_creator[cat, "Meow"]
 end
+my_hash_creator[cat, "Meow"]
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
