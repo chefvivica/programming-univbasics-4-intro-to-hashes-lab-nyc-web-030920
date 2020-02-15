@@ -20,12 +20,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  id_generator = {
-    id: x 
-  }
-  if id_generator["x"] += 1 
-  else
-     id_generator["x"] = 1 
+
   
 end
 
